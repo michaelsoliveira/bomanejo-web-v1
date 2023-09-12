@@ -1,0 +1,15 @@
+.fieldText {
+    @apply mt-1 appearance-none rounded-md relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-800 focus:outline-none focus:border-2 focus:ring-green-500 focus:border-green-500 sm:text-sm
+  }
+  
+  .fieldLabel {
+    @apply block text-gray-700 text-sm font-bold pt-2 pb-1
+  }
+  
+  .inputText {
+    @apply border border-gray-200 focus:outline-none rounded-md focus:border-green-600 focus:shadow-sm w-full px-3 py-2
+  }
+  
+  .inputLabel {
+    @apply absolute top-0 left-0 px-3 py-5 h-full pointer-events-none transform origin-left transition-all duration-100 ease-in-out
+  }

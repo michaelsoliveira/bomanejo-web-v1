@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "title": "Manejo Florestal Sustentável",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/imgs/manejo1.jpg"
+    },
+    {
+      "title": "Visualização de dados",
+      "link": "/imgs/undraw_Tutorial_video_re_wepc.png",
+      "imageUrl": "/imgs/undraw_Visualization_re_1kag.png"
+    },
+    {
+      "title": "Tutorial de Uso",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/imgs/undraw_Tutorial_video_re_wepc.png"
+    },
+    {
+      "title": "Análise Preditiva",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/imgs/analise_pred.png"
+    },
+    {
+      "title": "Coleta de dados do campo",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/imgs/undraw_Augmented_reality_re_f0qd.png"
+    },
+    {
+      "title": "Planejamento Operacional Anual",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/imgs/undraw_Performance_overview_re_mqrq.png"
+    },
+    {
+      "title": "Análise de dados em tempo real",
+      "link": "https://twitter.com/kendalmintcode",
+      "imageUrl": "/imgs/undraw_real_time_analytics_re_yliv.png"
+    }
+  ]
+}
